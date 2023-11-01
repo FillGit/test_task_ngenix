@@ -1,0 +1,9 @@
+env/
+zip_files/
+xml_files/
+
+.idea/
+.vscode/
+__pycache__/
+csv_file_1.csv
+csv_file_2.csv
